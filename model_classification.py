@@ -7,7 +7,7 @@ import joblib
 from preprocessing import X_train, X_test, y_iop_train, y_iop_test
 
 # Build model
-model = RandomForestClassifier(n_estimators=100, random_state=42)
+model = RandomForestClassifier(n_estimators=100, random_state=42, class_weight='balanced')
 model.fit(X_train, y_iop_train)
 
 # Predict

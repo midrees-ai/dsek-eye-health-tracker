@@ -36,3 +36,17 @@ visit_date,days_from_surgery,phase,hospital,iop_left,vision_left,cornea_finding,
 2025-12-14,204,post,perfect_vision,0,unknown,sutures_removed,1,3,0,0,1,0,1,none,normal,good
 2026-02-15,267,post,perfect_vision,0,unknown,cornea_better,1,3,0,0,1,0,1,none,normal,good
 2026-03-29,309,post,perfect_vision,0,unknown,mild_edema_10pct_increase,1,3,0,0,1,0,1,none,normal,good
+2024-07-10,-319,pre,sharp_sight,25,1_60,dm_folds,2,5,0,0,1,0,0,none,high_risk,pre_surgery
+2024-08-05,-293,pre,sharp_sight,28,1_60,bullae_vascularization,3,6,0,1,1,0,1,none,high_risk,pre_surgery
+2024-09-12,-256,pre,dr_agarwals,31,FC1M,edema,3,7,0,1,1,1,1,none,high_risk,pre_surgery
+2024-10-20,-218,pre,dr_agarwals,35,1_60,bullae_loose_epi,3,7,0,1,1,1,1,placed,high_risk,pre_surgery
+2024-11-03,-204,pre,dr_agarwals,38,1_60,k_edema_haze,3,8,0,1,1,1,1,placed,high_risk,pre_surgery
+2024-11-18,-189,pre,sharp_sight,42,CFCF,edema,3,8,0,1,1,1,1,none,high_risk,pre_surgery
+2025-02-20,-94,pre,dr_agarwals,29,1_60,ulcer_edema,3,7,1,1,1,0,1,none,high_risk,pre_surgery
+2025-03-25,-60,pre,dr_agarwals,33,1_60,degeneration_vascularization,3,6,0,1,1,1,1,placed,high_risk,pre_surgery
+2025-07-01,38,post,perfect_vision,22,unknown,mild_edema_graft_attached,2,4,0,0,1,1,0,none,high_risk,mid
+2025-07-20,57,post,perfect_vision,26,unknown,edema_reducing_graft_attached,2,5,0,0,1,1,0,none,high_risk,mid
+2025-08-10,78,post,perfect_vision,30,unknown,graft_clarity_3plus,3,5,0,0,1,1,1,none,high_risk,mid
+2025-10-15,145,post,perfect_vision,24,unknown,reducing_edema,2,4,0,0,1,1,0,none,high_risk,good
+2025-12-01,191,post,perfect_vision,28,unknown,sutures_removed,2,4,0,0,1,1,0,none,high_risk,good
+2026-01-10,231,post,perfect_vision,35,unknown,cornea_better,3,5,0,0,1,1,1,none,high_risk,good
